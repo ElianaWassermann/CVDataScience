@@ -5,16 +5,14 @@
   
   }
   
-  .leftside {
-    background:red;
-    width: 80%;
-   
-  }
-  
-   }
-  
-  .rightside {
-    background: blue;
-    width: 20%;
-   
-  }
+  .column {
+  float: left;
+}
+
+.left {
+  width: 80%;
+}
+
+.right {
+  width: 20%;
+}
