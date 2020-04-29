@@ -1,20 +1,16 @@
-.leftside, .rightside{
-  
-  height: 100vh;
-  width: 100%;
-  
-  }
-  
-  .column {
-  float: left;
+.wrap {
+  display: flex;
 }
 
 .left {
-  width: 80%;
-  color: red;
+  background: red;
+  flex-basis: 20%;
 }
 
 .right {
-  width: 20%;
-  color: blue;
+  background: green;
+  flex-basis: 80%;
+  
+  height: 100vh; 
+  overflow: auto;
 }
