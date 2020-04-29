@@ -14,7 +14,7 @@
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="35"/>](https://github.com/ElianaWassermann/CVenglish/files/3888022/CV_summary_Wassermann.pdf) Summarized CV [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3964932/CV_summary_Wassermann.pdf)
 
 <div id="container" style="width:100%;">                                   
-     <div id="left" style="float:left; width:50%;"> left
+<div id="left" style="float:left; width:50%;"> left
    
 ### <img src="https://user-images.githubusercontent.com/57723790/80576036-c8b48f00-8a04-11ea-9d5f-5fc8a6455471.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
 
@@ -22,8 +22,8 @@
 
 <p align="justify">I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills. </p>
 
-    </div>
-    <div id="Right" style="float:Right; width:50%;"> Right
+</div>
+<div id="Right" style="float:Right; width:50%;"> Right
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
 
@@ -31,7 +31,7 @@
 
 **06-2006 to 11-2011, Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires
 
-    </div>
+</div>
 </div>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Achievements)
