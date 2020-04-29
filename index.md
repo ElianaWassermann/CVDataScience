@@ -14,7 +14,7 @@
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="35"/>](https://github.com/ElianaWassermann/CVenglish/files/3888022/CV_summary_Wassermann.pdf) Summarized CV [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3964932/CV_summary_Wassermann.pdf)
 
 
-### <img src="https://user-images.githubusercontent.com/57723790/80576036-c8b48f00-8a04-11ea-9d5f-5fc8a6455471.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
+## <img src="https://user-images.githubusercontent.com/57723790/80576036-c8b48f00-8a04-11ea-9d5f-5fc8a6455471.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
 
 <p align="justify">I have finished a postdoctoral fellow in evolutionary biology and I am looking to expand my fields of expertise in data science. I like to work in making data appealing and easy to understand. Discovering which information is most important is always the first step. Often, I come up with new ideas to solve complex problems and enjoy getting my teammates behind them. I am always looking for a new challenge. I am eager to work in a place where my work can have a real impact and I can be proud of my accomplishments. 
 
