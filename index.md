@@ -20,7 +20,9 @@
 
 <p align="justify">I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills. </p>
 
-### Un texto sin corchete [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
+### Un texto sin corchete
+
+[<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
 
 **01-2012 to 04-2017, PhD in agricultural science** University of Buenos Aires
 
