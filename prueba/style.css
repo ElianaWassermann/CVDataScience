@@ -11,8 +11,10 @@
 
 .left {
   width: 80%;
+  color: red;
 }
 
 .right {
   width: 20%;
+  color: blue;
 }
