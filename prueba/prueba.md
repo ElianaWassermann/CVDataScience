@@ -26,6 +26,8 @@
   <img src="https://nehamalude.files.wordpress.com/2011/02/madhubala.jpg" class="thin-black-border" />
 </div>
 <div style="float:left; width:50%; background-color:red; ">
+  
+  
   Right
 </div>
 
