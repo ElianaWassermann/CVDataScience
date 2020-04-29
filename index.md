@@ -1,3 +1,5 @@
+<div style="width:100%; height: 100px;background-color:white">
+
 <img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="30"/>
 
 # Eliana Wassermann, PhD <img src="https://user-images.githubusercontent.com/57723790/69011224-10f45f00-0947-11ea-8022-a6621b0f297e.JPG" alt="drawing" width="200" align="right"/>
@@ -20,13 +22,16 @@
 
 I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills. </p>
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
+</div>
+<div style="float:left;width:50%;" class="container">
 
-**01-2012 to 04-2017, PhD in agricultural science** University of Buenos Aires
+ ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
 
-**06-2006 to 11-2011, Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires
+ **01-2012 to 04-2017, PhD in agricultural science** University of Buenos Aires
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Achievements)
+ **06-2006 to 11-2011, Agricultural Engineer/ MSc. in Agriculture** University of Buenos Aires
+
+ ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Achievements)
 
 I recieved a fellowship from the national and research council of Argentina to develope my posdoctoral investigations.
 
@@ -59,13 +64,16 @@ I analyzed the molecular and virulence diversity of the causal agent of one of t
 
 I have given courses in the area of Plant Genetics, Microbiology, and Human Rights.
 
+ </div>
+<div style="float:left; width:50%; background-color:red; ">
+ 
+ ### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Technical skills & Languages <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Skills_Languages)
 
+ I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
+ R team core, GraphPad Prism statistical and graphic analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform
 
-### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Technical skills & Languages <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Skills_Languages)
+ <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
-I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
-R team core, GraphPad Prism statistical and graphic analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform
+ ### [<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> References <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/References)
 
-<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
-
-### [<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> References <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/References)
+</div>
