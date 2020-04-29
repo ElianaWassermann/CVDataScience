@@ -7,6 +7,7 @@
   
   .leftside {
     background: red
+    width: 80%;
    
   }
   
@@ -14,5 +15,6 @@
   
   .rightside {
     background: blue
+      width: 20%;
    
   }
