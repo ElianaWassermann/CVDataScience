@@ -16,9 +16,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/57723790/80576036-c8b48f00-8a04-11ea-9d5f-5fc8a6455471.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
 
-<p align="justify">I have finished a postdoctoral fellow in evolutionary biology and I am looking to expand my fields of expertise in data science. I like to work in making data appealing and easy to understand. Discovering which information is most important is always the first step. Often, I come up with new ideas to solve complex problems and enjoy getting my teammates behind them. I am always looking for a new challenge. I am eager to work in a place where my work can have a real impact and I can be proud of my accomplishments. 
+I have finished a postdoctoral fellow in evolutionary biology and I am looking to expand my fields of expertise in data science. I like to work in making data appealing and easy to understand. Discovering which information is most important is always the first step. Often, I come up with new ideas to solve complex problems and enjoy getting my teammates behind them. I am always looking for a new challenge. I am eager to work in a place where my work can have a real impact and I can be proud of my accomplishments. 
 
-<p align="justify">I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills. </p>
+I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills.
 
 ## Un texto sin corchete
 
