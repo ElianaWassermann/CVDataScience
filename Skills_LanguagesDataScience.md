@@ -16,7 +16,9 @@
 
 ●	Applied microbiology
 
-●	Software: R team core, statistical software; GelCompar II v. 6.5 (Applied Maths NV); GraphPad Prism, statistical and graphic analysis; Microsoft Office and Open Office packages; Moodle learning platform
+# <img src="https://user-images.githubusercontent.com/57723790/80713200-5d95b600-8af3-11ea-8b44-5512a778df84.png" alt="drawing" width="30"/> Software 
+
+R team core, statistical software; GelCompar II v. 6.5 (Applied Maths NV); GraphPad Prism, statistical and graphic analysis; Microsoft Office and Open Office packages; Moodle learning platform
 
 
 
