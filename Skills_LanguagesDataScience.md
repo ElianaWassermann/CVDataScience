@@ -1,10 +1,16 @@
 # <img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="30"/> Technical Skills
 
+●	Project planning
+
 ●	Experimental design
+
+●	Protocol tuning-up
 
 ●	Statistical analysis
 
 ●	Bioinformatics
+
+●	Results communication
 
 ●	Geo-statistics
 
@@ -15,6 +21,7 @@
 ●	Cell cultivation
 
 ●	Applied microbiology
+
 
 # <img src="https://user-images.githubusercontent.com/57723790/80713200-5d95b600-8af3-11ea-8b44-5512a778df84.png" alt="drawing" width="30"/> Software 
 
