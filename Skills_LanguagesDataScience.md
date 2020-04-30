@@ -4,15 +4,15 @@
 
 ●	Statistical analysis
 
+●	Bioinformatics
+
 ●	Geo-statistics
+
+●	Molecular biology
 
 ●	Agricultural and environmental microbiology
 
 ●	Cell cultivation
-
-●	Molecular biology
-
-●	Bioinformatics
 
 ●	Applied microbiology
 
