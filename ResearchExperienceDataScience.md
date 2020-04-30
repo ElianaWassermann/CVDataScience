@@ -5,9 +5,9 @@
 ## Postdoctoral fellow,	2018-2020
 ### Darwinion Botanical Institute (IBODA; CONICET) [link](http://www.darwin.edu.ar/)
 
-I worked with plant DNA analysis. My duties consist of DNA purification, amplification, and sequence analysis. Specifically, I am working with *Larrea divaricata* from the Zygophyllaceae family.
+I worked with plant DNA analysis. My duties consisted of DNA purification, amplification, and sequence analysis. Specifically, I worked with *Larrea divaricata* from the Zygophyllaceae family.
 
-Regarding the sequence analysis, I have done phylogenetics with maximum likelihood, networks by Median Joining as well as demographic and variance analysis.
+Regarding the sequence analysis, I have done phylogenetics with Maximum Likelihood, networks by Median Joining as well as demographic and variance analysis.
 
 
 
@@ -19,7 +19,7 @@ Regarding the sequence analysis, I have done phylogenetics with maximum likeliho
 
 I analyzed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, the causal agent of one of the most important tomato bacterial diseases.
 
-To accomplish this, I used Bayesian analysis to obtain a haplotype dendrogram, as well as ANOVA to compare the plant symptoms and Analysis of Molecular variance to compare molecular profiles.
+To accomplish this, I used Bayesian analysis to obtain a haplotype dendrogram, as well as ANOVA to compare plants symptoms and Analysis of Molecular variance to compare molecular profiles.
 
 
 
@@ -28,7 +28,7 @@ To accomplish this, I used Bayesian analysis to obtain a haplotype dendrogram, a
 
 ### Department of Applied Biology, University of Buenos Aires. [link](https://agro.uba.ar/departamentos/biologia)
 
-I accomplished a study of the metabolic profile of the soil microbiological population of Argentina´s Yungas using Community-level physiological profiles.
+I accomplished a study of the metabolic profile of soil microbiological populations of Argentina´s Yungas using Community-level physiological profiles.
 
 In this investigation, I used Principal Components Analysis and Multivariate Analysis of Variance to compare the utilization of different organic substrates by the microbial soil communities. I analyzed communities from soils under different agricultural use.
 
