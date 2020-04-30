@@ -32,12 +32,12 @@
 <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/> Italian: Basic skills
 
 
-[<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/DataScience/)
+[<img src="https://user-images.githubusercontent.com/57723790/69000478-17cf9300-08af-11ea-9b78-c1c25d92d5a7.png" alt="drawing" width="20"/>  Home](https://elianawassermann.github.io/CVDataScience/)
 
-[<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/EducationDataScience)
-[<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/AchievementsDataScience)
-[<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/ResearchExperienceDataScience)
-[<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/PublicationsDataScience)
-[<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/TeachingExperienceDataScience)
-[<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/DataScience/ReferencesDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVDataScience/EducationDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVDataScience/AchievementsDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/DCVataScience/ResearchExperienceDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVDataScience/PublicationsDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVDataScience/TeachingExperienceDataScience)
+[<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30"/>](https://elianawassermann.github.io/CVDataScience/ReferencesDataScience)
 
