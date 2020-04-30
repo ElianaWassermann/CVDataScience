@@ -35,7 +35,7 @@
 
 **01-2018 to 03-2020, Posdoctoral Fellow** CONICET
 
-<p align="justify">I work with plant DNA analysis. I performed data analysis with R software and a variety of Python based software. Also, DNA purification, amplification and sequence analysis.</p>
+<p align="justify">I worked with plant DNA analysis. I performed data analysis with R software and a variety of Python based software. Also, DNA purification, amplification and sequence analysis.</p>
 
 **01-2012 to 04-2017, PhD student** University of Buenos Aires
 
@@ -65,7 +65,7 @@ I have given courses in the area of Plant Genetics, Microbiology, and Human Righ
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="40" style="display: inline-block; margin: 2"/><img src="https://user-images.githubusercontent.com/57723790/69000586-dcce5f00-08b0-11ea-8ffe-79dd8abb9cde.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Technical skills & Languages <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVDataScience/Skills_LanguagesDataScience)
 
-<p align="justify">I am proficient in experimental design, bioinformatics, statistical analysis, and skilled in the use of:
+<p align="justify">I am proficient in statistical analysis, bioinformatics, experimental design, and skilled in the use of:
 R team core, GraphPad Prism statistical and graphic analysis, Arlequin, Microsoft Office and Open Office packages, Moodle learning platform.</p>
 
 <img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> I am fluent in Spanish and English and have knowledge of French and Italian <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
