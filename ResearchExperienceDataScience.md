@@ -5,19 +5,23 @@
 ## Postdoctoral fellow,	2018-2020
 ### Darwinion Botanical Institute (IBODA; CONICET) [link](http://www.darwin.edu.ar/)
 
-I work with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
+<p align="justify">
+I worked with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
+</p>
+
+<p align="justify">Regarding the sequence analysis, I have done phylogenetics, networks by Median Joining as well as demographic analysis.</p>   
 
 
 [<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/>](https://agro.uba.ar/departamentos/)
 
 ## Doctoral candidate, 	2012-2017
 ### Department of Vegetal Production, University of Buenos Aires. [link](https://agro.uba.ar/departamentos/produccion_vegetal)
-I analysed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, causal agent of one of the most important tomato bacterial diseases.
+<p align="justify">I analysed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, causal agent of one of the most important tomato bacterial diseases.</p>
 
 ## Undergraduate research assistant,	2008-2011
 
 ### Department of Applied Biology, University of Buenos Aires. [link](https://agro.uba.ar/departamentos/biologia)
-I accomplished a study of the metabolic profile of soil microbiological population of Argentina´s Yungas using Community level physiological profiles (CLPP)
+<p align="justify">I accomplished a study of the metabolic profile of soil microbiological population of Argentina´s Yungas using Community level physiological profiles (CLPP)</p>
 
 
 
