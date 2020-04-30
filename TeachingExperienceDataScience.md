@@ -4,13 +4,13 @@
 School of Agriculture, University of Buenos Aires.
 
 
-### Lecturer/ Professor assistant,	2008-continuing
+### Lecturer/ Professor assistant,	2008-2020
 
 [Department of Applied Biology <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/departamentos/biologia)
 
 Courses:
 
-[Genetics <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/catedras/genetica): 2018-continuing
+[Genetics <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/catedras/genetica): 2018-2020
 
 ●	Genetics and plant breeding
 
