@@ -14,6 +14,16 @@
 [<img src="https://user-images.githubusercontent.com/57723790/69010036-f8317c80-0939-11ea-812b-bfc420eab4ea.png" alt="drawing" width="35"/>](https://github.com/ElianaWassermann/CVenglish/files/3888022/CV_summary_Wassermann.pdf) Summarized CV [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3964932/CV_summary_Wassermann.pdf)
 
 
+### <img src="https://user-images.githubusercontent.com/57723790/80699903-1ac8e380-8add-11ea-9a36-9ebe3c0be098.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
+
+<p align="justify">I have finished a postdoctoral fellow in evolutionary biology and I am looking to expand my fields of expertise in data science. I like to work in making data appealing and easy to understand. Discovering which information is most important is always the first step. Often, I come up with new ideas to solve complex problems and enjoy getting my teammates behind them. I am always looking for a new challenge. I am eager to work in a place where my work can have a real impact and I can be proud of my accomplishments. </p>
+
+<p align="justify">I am dynamic, creative, curious, and eager to learn, and take ownership of your work. I am also autonomous as well as proactive, but I enjoy working in groups, especially when they are from different environments and fields of expertise.  Furthermore, I have excellent English oral and written communication skills.</p>
+
+
+
+
+
 ### <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> [Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Education)
 
 **01-2012 to 04-2017, PhD in agricultural science** University of Buenos Aires
@@ -22,7 +32,7 @@
 
 ###  [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Achievements <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Achievements)
 
-<p align="justify">I recieved a fellowship from the national and research council of Argentina to develope my posdoctoral investigations.
+<p align="justify">I recieved a fellowship from the national and research council of Argentina to develope my posdoctoral investigations.</p>
 
 <p align="justify">Also I achived two grants in order to achive my PhD from the national and research council of Argentina and the National Agency of Science and Technology Promotion.</p>
 
