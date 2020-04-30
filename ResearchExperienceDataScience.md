@@ -5,23 +5,28 @@
 ## Postdoctoral fellow,	2018-2020
 ### Darwinion Botanical Institute (IBODA; CONICET) [link](http://www.darwin.edu.ar/)
 
-<p align="justify">
-I worked with plant DNA analysis. My duties consist on DNA purification, amplification and sequence analysis. Specifically I am working with *Larrea divaricata* from the Zygophyllaceae family.
-</p>
+I worked with plant DNA analysis. My duties consist of DNA purification, amplification, and sequence analysis. Specifically, I am working with *Larrea divaricata* from the Zygophyllaceae family.
 
-<p align="justify">Regarding the sequence analysis, I have done phylogenetics, networks by Median Joining as well as demographic analysis.</p>   
+Regarding the sequence analysis, I have done phylogenetics with maximum likelihood, networks by Median Joining as well as demographic and variance analysis.
 
 
 [<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/>](https://agro.uba.ar/departamentos/)
 
 ## Doctoral candidate, 	2012-2017
 ### Department of Vegetal Production, University of Buenos Aires. [link](https://agro.uba.ar/departamentos/produccion_vegetal)
-<p align="justify">I analysed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, causal agent of one of the most important tomato bacterial diseases.</p>
+
+I analyzed the molecular and virulence diversity of *Clavibacter michiganensis* subsp. *michiganensis*, the causal agent of one of the most important tomato bacterial diseases.
+
+To accomplish this, I used Bayesian analysis to obtain a haplotype dendrogram, as well as ANOVA to compare the plant symptoms and Analysis of Molecular variance to compare molecular profiles.
+
 
 ## Undergraduate research assistant,	2008-2011
 
 ### Department of Applied Biology, University of Buenos Aires. [link](https://agro.uba.ar/departamentos/biologia)
-<p align="justify">I accomplished a study of the metabolic profile of soil microbiological population of Argentina´s Yungas using Community level physiological profiles (CLPP)</p>
+
+I accomplished a study of the metabolic profile of the soil microbiological population of Argentina´s Yungas using Community-level physiological profiles.
+
+In this investigation, I used Principal Components Analysis and Multivariate Analysis of Variance to compare the utilization of different organic substrates by the microbial soil communities. I analyzed communities from soils under different agricultural use.
 
 
 
