@@ -15,7 +15,7 @@
 
 ## January 2012-March 2015 **PhD starting grant**
 [<img src="http://www.biblioteca.mincyt.gob.ar/images/logos/00_Logo_Ministerio_ECCyT-02.png" alt="drawing" width="200"/>](https://www.argentina.gob.ar/ciencia)
-[National Agency of Science and Technology Promotion (MINCyT)](https://www.argentina.gob.ar/ciencia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
+[National Agency of Science and Technology Promotion (MINCyT)](https://www.argentina.gob.ar/ciencia) <img src="https://github.com/ElianaWassermann/CVDataScience/blob/master/MINCIT.png" alt="drawing" width="10"/>
 
 
 
