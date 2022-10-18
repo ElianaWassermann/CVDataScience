@@ -33,6 +33,10 @@
 
 ###  [<img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Research experience <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVDataScience/ResearchExperienceDataScience)
 
+**08-2020 continuing, Data scientist** AP-HP
+
+I do statistical analysis of medical data. In order to achieve this I manage databases and construct data frames using SQL, Python and R in a Jupyter environment.
+
 **01-2018 to 03-2020, Posdoctoral Fellow** CONICET
 
 <p align="justify">I worked with plant DNA analysis. I performed data analysis with R software and a variety of Python based software. Also, DNA purification, amplification and sequence analysis.</p>
