@@ -16,7 +16,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/57723790/80699903-1ac8e380-8add-11ea-9a36-9ebe3c0be098.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
 
-<p align="justify">I am dynamic, creative, curious, and eager to learn. I am also autonomous, proactive,  also I enjoy working in groups, especially when they are conformed by people from different environments and fields of expertise.</p>
+<p align="justify">I am dynamic, creative, curious, and eager to learn. I am also autonomous, proactive, and enjoy working in groups, especially when they are conformed by people from different environments and fields of expertise.</p>
 
 <p align="justify">I have experience in data management and analysis. I am comfortable working in Python and R environments, as well as with SQL.
  
@@ -24,10 +24,6 @@ At the moment, I'm employed by the AP-HP, a consortium of 38 public hospitals in
 
  At the moment, I'm looking for a new experience that will help me keep growing on the field of data research and enviromental science.
  </p>
-
-
-
-
 
 
 ### <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> [Education <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVDataScience/EducationDataScience)
