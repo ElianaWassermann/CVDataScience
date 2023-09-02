@@ -8,9 +8,6 @@
 ### <img src="https://user-images.githubusercontent.com/57723790/69729481-26b31280-1105-11ea-991f-4c2fde25f218.png" alt="drawing" width="320"/>
 
 [LinkedIn](https://www.linkedin.com/in/elianawassermann) 
-[ResearchGate](https://www.researchgate.net/profile/Eliana_Wassermann)
-[<img src="https://user-images.githubusercontent.com/57723790/69147946-f094e380-0ab1-11ea-9fd3-b652f0ddb24c.png" alt="drawing" width="35"/>](https://scholar.google.com.ar/citations?hl=es&user=KC5cwPQAAAAJ&view_op=list_works&gmla=AJsN-F4dhu1_XFYiDG1GXHI9VeqQOmQ_3rTsWqOWdXzuY5t0zDBxVXgO06A3wljw5udVHnbQjt6la53ItAd-kpzXd4KNp7WrWk1SDMIB6KcvfiAfPDBsz04)
-
 
 
 ### <img src="https://user-images.githubusercontent.com/57723790/80699903-1ac8e380-8add-11ea-9a36-9ebe3c0be098.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Objectives
