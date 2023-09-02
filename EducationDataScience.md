@@ -2,6 +2,14 @@
 
 # <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Education
 
+## July 2023- Octobre 2023, **Applied Data Science Program**
+
+[<img src="https://d1vwxdpzbgdqj.cloudfront.net/MIT-bootcamp/mit-transparent-logo-header.png" alt="drawing" width="180"/>](https://www.mygreatlearning.com/mit-applied-data-science-course?&utm_source=google&utm_medium=search&utm_campaign=ADSB_Int_Search_Program_Broad_EU&adgroup_id=131363089435&campaign_id=15460219899&Keyword=data%20courses&placement=&gclid=Cj0KCQjwusunBhCYARIsAFBsUP_3U1FM_l5YZZJAYRz1n7ch3MLDmVWIm5fCvkv8eufpmm9DMfa0BHQaAi--EALw_wcB2)
+
+MIT Professional Education
+
+Leveraging AI for Effective Decision-Making
+
 ## January 2012- March 2017, **Ph.D. in Agricultural Sciences**
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://epg.agro.uba.ar/)
