@@ -1,7 +1,25 @@
 # <img src="https://user-images.githubusercontent.com/57723790/69009478-34fa7500-0934-11ea-96cb-c80303b396d3.jpg" alt="drawing" width="40"/> Research Experience
 
-[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
 
+## Project manager, medical research,	2020-2023
+### AP-HP, EDS [link](https://eds.aphp.fr/)
+
+AP-HP | Project manager, medical research
+
+•	Management of extensive patient SQL databases, totaling over 11 million records, ensuring data integrity and accessibility.
+
+•	Leveraged Python to streamline data frame management, resulting in increased efficiency and data-driven decision-making.
+
+•	Conducted biostatistical analysis using R, extracting actionable insights that contributed to critical research outcomes.
+
+•	Provided comprehensive training and support to researchers, fostering a collaborative and skilled research environment.
+
+
+
+
+
+
+[<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
 ## Postdoctoral fellow,	2018-2020
 ### Darwinion Botanical Institute (IBODA; CONICET) [link](http://www.darwin.edu.ar/)
 
